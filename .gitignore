@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Licensed source data (never committed) — repo-root only, not the optengine/data package
+/data/
+/pertkr/
+/fop_pertkr/
+/fop_raw/
+/odte_raw/
+/richness/
+/.fop_tmp/
+
+# Generated outputs
+/findings/
+/runs/
+*.parquet
+*.csv
+*.png
+*.log
+*.tmp
+*.bak
+.ipynb_checkpoints/
