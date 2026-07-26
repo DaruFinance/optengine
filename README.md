@@ -1,5 +1,7 @@
 # optengine
 
+> Backtester and reproduction scripts for Daniel Gatto's options work, published on [daru.finance](https://www.daru.finance).
+
 A from-scratch options backtester and the analysis scripts that reproduce the
 results in the paper *When the Spread Is the Edge: A post-cost, multiple-testing
 audit of systematic options strategies*.
